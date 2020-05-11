@@ -63,3 +63,12 @@
 li {
     color: crimson;
 }
+a:visited {
+    color: crimson;
+}
+a:hover {
+    color: darkmagenta;
+}
+a:active {
+    color: yellow;
+}
