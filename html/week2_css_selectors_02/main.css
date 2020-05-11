@@ -1,0 +1,26 @@
+body {
+    font-size: 30px;
+}
+li:first-child {
+    color: purple;
+}
+li:last-child {
+    color: turquoise;
+}
+ul:nth-child(even) {
+    background-color: yellow;
+}
+ul:nth-child(odd) {
+    background-color: pink;
+}
+li:nth-child(4) {
+    color: red;
+}
+li:nth-child(2n+1) {
+    font-size: 46px;
+}
+p:only-child {
+    font-size: 50px;
+    font-style: italic;
+    color: purple;
+}
