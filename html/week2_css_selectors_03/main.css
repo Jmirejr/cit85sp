@@ -1,0 +1,13 @@
+p {
+    font-size: 32px;
+}
+
+p::first-letter {
+    font-family: fantasy;
+    font-size: 40px;
+    line-height: .5;
+}
+p::first-line {
+    color: purple;
+    font-weight: 400;
+}
