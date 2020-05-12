@@ -1,0 +1,26 @@
+html {
+    background: black;
+}
+
+body {
+    color: white;
+}
+
+div p {
+    font-size: 36px;
+    color: teal;
+    
+}
+
+div>p {
+    color: purple;
+}
+
+div ~ p {
+    font-size: 40px;
+    color: yellow;
+}
+
+div + p {
+    font-size: 100px;
+}
