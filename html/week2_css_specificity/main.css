@@ -1,0 +1,15 @@
+div p {
+    color: teal;
+    text-align: center;
+}
+h1 {
+    border-style: solid;
+    text-align: center;
+    margin: auto;
+    border-width: 5px;
+    border-radius: 50%;
+}
+#jmire {
+    font-size: 40px;
+    color: purple;
+}
