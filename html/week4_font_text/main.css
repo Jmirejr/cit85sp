@@ -1,0 +1,60 @@
+#one {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+#two {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+#three {
+    font-family: 'Indie Flower', cursive;
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+#four {
+    font-style: italic;
+    text-transform: uppercase;
+    border: teal solid 2px;
+    width: 500px;
+    margin-bottom: 20px;
+}
+
+#five {
+    letter-spacing: 2px;
+    border: teal solid 2px;
+    width: 500px;
+    margin-bottom: 20px;
+}
+
+#six {
+    filter: drop-shadow(30px 5px 4px black);
+}
+
+a {
+    text-decoration: none;
+    font-size: 32px;
+    margin-bottom: 20px;
+    
+}
+
+a:hover {
+    text-decoration: underline;
+    margin-bottom: 20px;
+}
+
+#eight {
+    text-decoration: line-through;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#nine {
+    text-indent: 50px;
+    font-size: 32px;
+    
+}
