@@ -1,0 +1,24 @@
+body {
+    display: flex;
+}
+
+div {
+    border: 2px solid purple;
+    height: 100px;
+    width: 400px;
+}
+
+.one {
+    flex-grow: 1;
+    background-color: orange;
+}
+
+.two {
+    flex-grow: 2;
+    background-color: teal;
+}
+
+.three {
+    flex-grow: 1;
+    background-color: turquoise;
+}
