@@ -1,0 +1,24 @@
+div {
+    font: italic 32px impact;
+    text-align: center;
+}
+
+.c1 {
+    background-color: yellow;
+}
+
+.c2 {
+    background-color: blue;
+}
+
+.c3 {
+    background-color: silver;
+}
+
+.c4 {
+    background-color: hotpink;
+}
+
+.c5 {
+    background-color: red;
+}
