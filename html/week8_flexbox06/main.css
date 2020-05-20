@@ -1,0 +1,22 @@
+html, body, div {
+    padding: 0;
+    border: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    color: black;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    border: 10px solid black;
+    background-image: url("logo_mfam.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
