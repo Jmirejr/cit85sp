@@ -1,0 +1,8 @@
+#cat {
+    width: 150px;
+    height: 150px;
+    background-color: blue;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    }
