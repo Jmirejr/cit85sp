@@ -1,0 +1,23 @@
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: lightblue;
+    border-radius: 50%;
+    width: 500px;
+    height: 500px;
+    font: 52px impact;
+}
+
+div {
+    animation: changeColor 5s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes changeColor {
+    0% { color: purple; }
+    25% { color: yellow; }
+    50% { color: black; }
+    75% { color: teal; }
+    100% { color: blue; }
+}
