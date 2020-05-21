@@ -1,0 +1,20 @@
+div {
+    background: teal;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div:hover {
+    color: teal;
+    background-color: lightblue;
+}
+
+.trans {
+    transition-property: all;
+    transition-duration: 2s;
+    transition-timing-function: ease;
+}
